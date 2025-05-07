@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Folk Art
+title: "Folk Art"
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a collection of American Folk Art Photographs for LIS529
+tagline: "a collection of American Folk Art Photographs for LIS529"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: A demonstration of the capabilities of CollectionBuilder for Digital Humanities Projects
+description: "A demonstration of the capabilities of CollectionBuilder for Digital Humanities Projects"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Yasmin Golan
+author: "Yasmin Golan"
 
 ##########
 # COLLECTION SETTINGS
